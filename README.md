@@ -2,13 +2,13 @@
 
 ### Project title
 
-Socialize
+**SocialSeek**
 
 ### What and why?
 
 Social media managers, creators, businesses or just people in general juggle multiple platforms (e.g., Instagram, X/Twitter) but lack a unified tool to track cross-platform performance. Manually checking each platform for follower counts, engagement, and trends is time-consuming and inefficient.
 
-**Socialize** is a centralized dashboard that aggregates analytics from multiple social media accounts into a single interface. Users can monitor follower growth and engagement rates across platforms in real time, enabling data-driven decisions without switching between apps.
+**SocialSeek** is a centralized dashboard that aggregates analytics from multiple social media accounts into a single interface. Users can monitor follower growth and engagement rates across platforms in real time, enabling data-driven decisions without switching between apps.
 
 ### For whom?
 
