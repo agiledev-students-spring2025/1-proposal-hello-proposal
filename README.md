@@ -20,4 +20,4 @@ The system will connect accounts via OAuth middleware where users can securely l
 
 ### Scope
 
-A group of approximately 4 - 6 programmers to undertake in one semester is feasible and we can minimize third-party API complexity by limiting the social media platforms we want to use. 
+A group of approximately 4 - 6 programmers to undertake in one semester is feasible and we can minimize third-party API complexity by limiting the social media platforms we want to integrate. 
