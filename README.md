@@ -2,24 +2,22 @@
 
 ### Project title
 
-Give your project a nice title.
+Socialize
 
 ### What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+Social media managers, creators, businesses or just people in general juggle multiple platforms (e.g., Instagram, X/Twitter) but lack a unified tool to track cross-platform performance. Manually checking each platform for follower counts, engagement, and trends is time-consuming and inefficient.
+
+**Socialize** is a centralized dashboard that aggregates analytics from multiple social media accounts into a single interface. Users can monitor follower growth and engagement rates across platforms in real time, enabling data-driven decisions without switching between apps.
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+Content creators, small business owners like startups or local shops, social media managers like influencers or marketing agencies who want a way to grow audiences and their online presence more effectively with our consolidated analytics tool.  
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+The system will connect accounts via OAuth middleware where users can securely link Instagram, X, and other social profiles. We will provide real-time metrics in one place that will display follower trends with Chart.js, engagement heatmaps, custom reports, alerts, etc. 
 
 ### Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+A group of approximately 4 - 6 programmers to undertake in one semester is feasible and we can minimize third-party API complexity by limiting the social media platforms we want to use. 
